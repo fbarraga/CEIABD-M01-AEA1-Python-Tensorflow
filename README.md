@@ -1,5 +1,5 @@
 # Xarxa neuronal bàsica amb Python i Tensorflow
-Hashtags: #FpInfor #Daw #Dam #Asix #DawMp02 #DamMp02 #AsixMp02 #AsixMp10 #CE IA&BD
+Hashtags: #FpInfor #Daw #Dam #Asix #CE IA&BD
 
 ## Descripció
 
