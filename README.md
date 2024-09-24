@@ -3,7 +3,7 @@ Hashtags: #FpInfor #Daw #Dam #Asix #CE IA&BD
 
 ## Descripció
 
-En aquesta activitat es realitza una xarxa neuronal bàsica per la conversió de graus fahrenheit a celsius.
+En aquesta activitat es realitza una xarxa neuronal bàsica per la conversió de graus celsius a graus fahrenheit.
 
 ## Requeriments
 
