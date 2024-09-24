@@ -1,14 +1,26 @@
-# Mi primer red Neuronal con Python y Tensorflow
-Se realiza una red neuronal desarrollada en Python y Tensorflow para convertir grados Celsius a grados Fahrenheit.
-El objetivo es usar una red simple, que cumpla una función y nos permita ver cómo funciona. 
+# Xarxa neuronal bàsica amb Pyhon i Tensorflow
+Hashtags: #FpInfor #Daw #Dam #Asix #DawMp02 #DamMp02 #AsixMp02 #AsixMp10 #CE IA&BD
 
-## Dependecias 
-Instalar las dependencias:
+## Descripció
+
+En aquesta activitat es realitza una xarxa neuronal bàsica per la conversió de graus fahrenheit a celsius.
+
+## Requeriments
+
+Aquest projecte utilitza [numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), i [tensorflow](https://tensorflow.org) llibreries que s'han provat amb versions de Python 3.10. 
+
+## Setup
+
+Instal·lar les dependencies:
 ```bash
 pip install tensorflow
 pip install numpy
 pip install matplotlib
 ```
 
-## Autor
-Para mas información ver el video ["Tu primer red neuronal en Python y Tensorflow"](https://www.youtube.com/watch?v=iX_on3VxZzk)
+## Reconeixements
+
+Per més informació veure el video ["Tu primer red neuronal en Python y Tensorflow"](https://www.youtube.com/watch?v=iX_on3VxZzk)
+
+
+
